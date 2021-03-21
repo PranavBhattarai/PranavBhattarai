@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PranavBhattarai
+- 👋 Hi, I’m Pranav Bhattarai
 - 👀 I’m interested in Networking.
 - 🌱 I’m currently learning CCNA.
 - 💞️ I’m looking to collaborate on projects related to networking.
